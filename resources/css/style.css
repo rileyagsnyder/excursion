@@ -1,30 +1,25 @@
 body {
   text-align: center;
   background-color: black;
-}
-.header-main {
-  font-weight: normal;
-  font-size: 50px;
-}
-h1, h2, p {
-  font-family: Verdana;
+  font-family: verdana;
   color: white;
 }
-.link {
+.cs {
   color: Aquamarine;
   font-size: 16px;
 }
-.header {
-  font-weight: 300;
-  font-size: 42px;
+h1 {
+  font-size: 50px;
+  font-weight: normal;
 }
 h2 {
+  font-size: 42px;
+}
+p {
   font-size: 21px;
   color: gray;
 }
 .copyright {
   text-align: right;
   color: gray;
-}
-video { autoplay;
 }
